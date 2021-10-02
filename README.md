@@ -1,2 +1,2 @@
 # User-profile
-Simple user profile
+Just a Simple user profile
